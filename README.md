@@ -83,4 +83,4 @@ module.exports = {
 }
 ```
 
-Todas essas configurações estão disponíveis <a href="https://github.com/iuricode/hyper-terminal/.hyper.js">aqui.</a> Sinta-se à vontade para personalizar ainda mais o seu terminal de acordo com suas preferências, todas essas configurações estão disponíveis para Windows, Linux e Mac.
+Todas essas configurações estão disponíveis <a href="https://github.com/iuricode/hyper-terminal/blob/main/.hyper.js">aqui.</a> Sinta-se à vontade para personalizar ainda mais o seu terminal de acordo com suas preferências, todas essas configurações estão disponíveis para Windows, Linux e Mac.
